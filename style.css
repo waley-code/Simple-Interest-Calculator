@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+    outline: none;
+    font-family: Quicksand sans-serif;
+}
+
+body {background-color:black;font-family:arial;color:white;
+    position: relative;
+}
+h1{color:grey;font-family:verdana;
+    text-align: center;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 400px;
+    padding: 20px;
+    border-radius: 25px;
+    align-content: center;
+    
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
