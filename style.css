@@ -18,7 +18,7 @@ h1{color:grey;font-family:verdana;
     background-color: white;
     color: black;
     width: 50%;
-    height: 50vh;
+    /* height: 50vh; */
     padding: 20px;
     border-radius: 25px;
     align-content: center;
